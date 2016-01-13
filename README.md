@@ -15,9 +15,10 @@ Our calculations are controller by the class OurCompanyNamespace.Logic.Component
 which has the key method OurCompanyNamespace.Logic.Components.MasterComponent.Process()  
 ```
 ### Which would rendered as:
-> Our calculations are controller by the class <a href="vs-code-link://OurCompanyNamespace.Logic.Components.MasterComponent" tooltip="OurCompanyNamespace.Logic.Components.MasterComponent">MasterComponent</a>,
-> which has the key method <a href="vs-code-link://OurCompanyNamespace.Logic.Components.MasterComponent.Process()" tooltip="OurCompanyNamespace.Logic.Components.MasterComponent.Process()">MasterComponent.Process(...)</a>
-
+```
+Our calculations are controller by the class <a href="vs-code-link://OurCompanyNamespace.Logic.Components.MasterComponent" tooltip="OurCompanyNamespace.Logic.Components.MasterComponent">MasterComponent</a>,
+which has the key method <a href="vs-code-link://OurCompanyNamespace.Logic.Components.MasterComponent.Process()" tooltip="OurCompanyNamespace.Logic.Components.MasterComponent.Process()">MasterComponent.Process(...)</a>
+```
 ## Patterns to match
 
 Cannonical:
@@ -38,4 +39,5 @@ A post-processor should scan the links and turn then into a-tags with am appropr
 Clicking this link in a brower will take you to this link.
 
 ## Tooling
-IDE Right-Click on any class or method > Get Hyperlink URI. Will place an appropriately formatted URI onto the clipboard. 
+- IDE Right-Click on any class or method > Get Hyperlink URI. Will place an appropriately formatted URI onto the clipboard.
+- Refactor-Rename would sync in MarkDown files 
