@@ -42,3 +42,7 @@ Clicking this link in a brower will take you to this link.
 ## Tooling
 - IDE Right-Click on any class or method > Get Hyperlink URI. Will place an appropriately formatted URI onto the clipboard.
 - Refactor-Rename would sync in MarkDown files 
+
+---------------------------------
+JetBrains Resharper support request: (https://resharper-support.jetbrains.com/hc/en-us/requests/613319)
+
