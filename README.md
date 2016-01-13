@@ -46,3 +46,6 @@ Clicking this link in a brower will take you to this link.
 ---------------------------------
 JetBrains Resharper support request: (https://resharper-support.jetbrains.com/hc/en-us/requests/613319)
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/FeatureRequest?src=hash">#FeatureRequest</a> <a href="https://twitter.com/resharper">@Resharper</a> Hyperlink to Visual Studio from Browser/IDE using namespace pattern matching. See <a href="https://t.co/q5ofEjZuLb">https://t.co/q5ofEjZuLb</a></p>&mdash; Guy Langston (@guy_langston) <a href="https://twitter.com/guy_langston/status/687316620180635648">January 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
