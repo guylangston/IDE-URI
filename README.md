@@ -6,8 +6,8 @@ Clicking on that link would navigate to that link in visual studio.
 ## URI
 
 codelink-{ide}://Some.NameSpace.SomeClass.SomeMethod()?hint-path=SomeAssembley.dll
-where {ide}='vs' for Visual Studio,
-and the query ?-onwards is entirely optional
+- where {ide}='vs' for Visual Studio,
+- and the query ?-onwards is entirely optional
 
 ## Example
 ```
