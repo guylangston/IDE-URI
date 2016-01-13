@@ -3,6 +3,12 @@
 I want to be able to document my code in a markdown file, but reference namespaces, projects, classes and methods using namespace.dot.notation. 
 Clicking on that link would navigate to that link in visual studio.
 
+## URI
+
+codelink-{ide}://Some.NameSpace.SomeClass.SomeMethod()?hint-path=SomeAssembley.dll
+where {ide}='vs' for Visual Studio,
+and the query ?-onwards is entirely optional
+
 ## Example
 ```
 Our calculations are controller by the class OurCompanyNamespace.Logic.Components.MasterComponent,
