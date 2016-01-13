@@ -1,4 +1,5 @@
-# Feature Request: Hyperlink to Visual Studio from MarkDown code documentation
+# Feature Request: Hyperlink to Visual Studio from Browser
+### For use with Markdown, Resharper in generating 'live' code documentation
 
 I want to be able to document my code in a markdown file, but reference namespaces, projects, classes and methods using namespace.dot.notation. 
 Clicking on that link would navigate to that link in visual studio.
